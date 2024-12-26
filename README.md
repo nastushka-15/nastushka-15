@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![Coding Girl](header3.png)
 ## I’m a passionate Frontend Developer💖
 ### I absolutely love coding – it’s not just a job for me, it’s a way to bring creativity and beauty into the digital world. 
-![Cute GIF](https://media.giphy.com/media/l2JehprESZg2WACn6/giphy.gif)
+[<img src='avatar1.jpg' alt='github' height='165'>](https://github.com/nastushka-15)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nastushka-15&layout=compact)](https://github.com/nastushka-15/github-readme-stats)
 ___
  ### :hammer_and_wrench:Technology Stack:
@@ -35,7 +35,8 @@ ___
    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" width=50/>&nbsp
    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="github" width=50/>&nbsp
     </div>
-###📃Contacts:
+    
+### :page_with_curl:Contacts:
   
 <div id="badges" align="center">
 
@@ -45,4 +46,4 @@ ___
  </div>
 
 ___
-    
+![](https://komarev.com/ghpvc/?username=nastushka-15&color=ff69b4&style=plastic)    
