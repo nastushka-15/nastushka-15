@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 ## I’m a passionate Frontend Developer💖
 ### I absolutely love coding – it’s not just a job for me, it’s a way to bring creativity and beauty into the digital world. 
 
-![Coding Girl](https://media.giphy.com/media/5GoVLqeAOo6Qw/giphy.gif)
+![Coding Girl](header.png)
 ![Cute GIF](https://media.giphy.com/media/l2JehprESZg2WACn6/giphy.gif)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nastushka-15&layout=compact)](https://github.com/nastushka-15/github-readme-stats)
