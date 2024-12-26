@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ### I absolutely love coding – it’s not just a job for me, it’s a way to bring creativity and beauty into the digital world. 
 [<img src='avatar1.jpg' alt='github' height='165'>](https://github.com/nastushka-15)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nastushka-15&layout=compact)](https://github.com/nastushka-15/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nastushka-15&theme=radical&card_height=165)](https://git.io/streak-stats)
 ___
  ### :hammer_and_wrench:Technology Stack:
  
