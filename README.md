@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Anastasiya's+Github+Profile..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&&color=EA7599&lines=Welcome+To+Anastasiya's+Github+Profile..)](https://git.io/typing-svg)
 ![Coding Girl](header.png)
 ## I’m a passionate Frontend Developer💖
 ### I absolutely love coding – it’s not just a job for me, it’s a way to bring creativity and beauty into the digital world. 
